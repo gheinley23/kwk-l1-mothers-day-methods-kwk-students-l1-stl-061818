@@ -7,4 +7,3 @@ def mothers_day (mother_name="Mom")
 end
 
 mothers_day ("Jessica")
-mothers_day
